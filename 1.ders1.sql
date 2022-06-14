@@ -30,6 +30,9 @@ select*from student;
 select id, name from student;
 -- student tablosundaki namu column unu getirir
 
+select  name from student;
+-- student tablosundaki namu column unu getirir
+
 select id, name from student;
 -- student tablosundaki namu ve id column unu getirir
 
